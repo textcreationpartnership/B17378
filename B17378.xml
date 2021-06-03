@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pilulæ antipudendagriæ, or, Venus's refuge whereby every one may secretly cure and preserve themselves from all venereal evils, being a secret never before published : also, the plain and true discovery of the French disease ...</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17378</idno><idno type="EEBO-CITATION">10830614</idno>
+  <idno type="VID">204793</idno>
+  <idno type="EEBO-PROQUEST">2240918157</idno>
+  
+            <idno type="STC">Wing B153</idno>
+            <idno type="OCLC">10830614</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1414:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pilulæ antipudendagriæ, or, Venus's refuge whereby every one may secretly cure and preserve themselves from all venereal evils, being a secret never before published : also, the plain and true discovery of the French disease ...</title>
+                  <author>B. P.</author>
+               </titleStmt>
+               <extent>[8], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Brooks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to B.P.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Syphilis --  Early works to 1800.</term>
+               <term type="topical_term">Sexually transmitted diseases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204793:1"/>
+            <p>
+               <hi>Pilulae Antipudendagriae:</hi> OR VENUS'S REFUGE. Whereby every one may Se<g ref="char:EOLhyphen"/>cretly Cure and Preserve them<g ref="char:EOLhyphen"/>selves from all Venereal EVILS. Being a Secret never before Published. A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> also, the True, and Plain Discovery of the <hi>French Disease.</hi>
+            </p>
+            <q>Felix cui datum est, Morbi Eradicare Causam.</q>
+            <p>Sold, As also the Pills Sealed up in Tin-Boxes at these Book-sellers Shops following:</p>
+            <p n="1">1. At the <hi>Gridiron,</hi> near <hi>Turn-Stile</hi> in <hi>Holborn</hi> 2. At the <hi>Three Bibles</hi> on <hi>London-Bridge.</hi> 3. At th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Starr</hi> in <hi>Little-Brittain.</hi> 4. At the <hi>Fethers</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Westminster-Hall.</hi> 5. At the <hi>Angel</hi> and <hi>Horne</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Gresham Colledge.</hi> 6. And at the <hi>George</hi> in <hi>Fleet street,</hi> near St. <hi>Dunstans</hi> Church.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Brook,</hi> at the <hi>Gridiron,</hi> near <hi>Turn Stile</hi> in <hi>Holborn.</hi> 1669.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:204793:2"/>
+            <pb facs="tcp:204793:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THE Consideration of the many grand E<g ref="char:EOLhyphen"/>vils, Inevitably hap<g ref="char:EOLhyphen"/>ping to most, that unfortunately Ingage in <hi>Venereal Pleasures;</hi> and then through Shame, want of Conveniency, Tenderness of Re<g ref="char:EOLhyphen"/>putation; or otherwise, through Terror of undergoing the many Cruel, Loathsome, Tormenting
+<pb facs="tcp:204793:3"/>wayes of Cures generally Ʋsed. As also, the many Deplorable Accidents happening many times between Man and Wife Nurse, and Child, to the Ruin of them<g ref="char:EOLhyphen"/>selves and Off-spring, <hi>&amp;c.</hi> by Protracting and Dissembling this <hi>Contagion</hi> hath Extorted this Publication of my <hi>Antipu<g ref="char:EOLhyphen"/>dendagrian-Pill;</hi> whereby eve<g ref="char:EOLhyphen"/>ry one may truly Cure themselves as soon as they are Diseased, with as much Secresie as they please, to the Anticipation of all the above-said Evils, by the on<g ref="char:EOLhyphen"/>ly taking Three or Four of these
+<pb facs="tcp:204793:3"/>little Pills every third or fourth Day, untill Perfect Recovery, as is herein Directed: With a True and Plain Discovery of the <hi>French-Disease;</hi> as also all it's Primary Symptomes or Signs in Men, and Wo<g ref="char:EOLhyphen"/>men; Whereby it's Rendered Discoverable to all. And Me<g ref="char:EOLhyphen"/>dicinal Instructions in the Man<g ref="char:EOLhyphen"/>ner how to take the Pills; what Meats are to be Chosen, and fur<g ref="char:EOLhyphen"/>bourn, so as none, except the Ob<g ref="char:EOLhyphen"/>stinate, but may timely recover themselves. And others hereby Having a Knowledge how De<g ref="char:EOLhyphen"/>plorable
+<pb facs="tcp:204793:4"/>a <hi>Contagion</hi> it is, may reject all Enormous Provocati<g ref="char:EOLhyphen"/>ons, to that on which such dan<g ref="char:EOLhyphen"/>gers attend: As is the Candid intent herein of thy Really well-Wisher</p>
+            <closer>
+               <signed>P. B.</signed>
+               <dateline>
+                  <date>March <hi>10. 1669.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="endorsement">
+            <pb facs="tcp:204793:4"/>
+            <pb facs="tcp:204793:5"/>
+            <p>SUch is the excellency of these <hi>Antipudendagrian</hi> Pills, that they only work agreeable to nature, as it is dispos'd, exceeding gently by <hi>Sweat, Ʋrine,</hi> and <hi>Stool,</hi> (so as none need hinder their occasions, keeping but warm when they take them) dissol<g ref="char:EOLhyphen"/>ving, destroying, and evacuating all fermented, putrid humours, and matter, throughout all the parts of the body, purifying the whole body and humours, in such manner, as all Swellings, Pustles, Sores, or Ulcers, resolve, cleans, dries, and heals, by the benefit of nature, being kept clean.</p>
+            <p>They open all obstructions of the <hi>Liver, Spleen, Womb, Reins,</hi> &amp;c. So, as for above this 12. Years experience of them in <hi>Europe</hi> and <hi>India,</hi> hath been Cured most effectually, not only this most grand Evil, the <hi>French Disease,</hi> and <hi>Virulent Running</hi> of the <hi>Reins,</hi> (which is one and the same Disease, as is declared in the Chapters of Signes of the <hi>French Disease</hi>) but also all Diseases arizing of <hi>Putrefaction, Fermentation,</hi> or <hi>Obstruction</hi> (if cu<g ref="char:EOLhyphen"/>rable) as the <hi>Scurvy, Green-sickness,</hi> all Diseases of <hi>Wormes</hi> which proceed of Putrefaction. All <hi>Itches,</hi> which arise by Firmentation of Humors, and such like, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:204793:5"/>
+            <head>CHAP. I. <hi>The Name, Difinition, O<g ref="char:EOLhyphen"/>riginal Production, Cause, Manner of In<g ref="char:EOLhyphen"/>fecting, and Cure of the</hi> French-Disease.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His name, <hi>Pudenda<g ref="char:EOLhyphen"/>gra,</hi> or <hi>Genital</hi> Con<g ref="char:EOLhyphen"/>tagion, I presume, is most genuine be<g ref="char:EOLhyphen"/>ing of the place of it's Nativity, and the same I always met withal in the <hi>Indies,</hi> in their Languages: From whence I con<g ref="char:EOLhyphen"/>ceive it first Navigated by some
+<pb n="2" facs="tcp:204793:6"/>trusty Trogians in <hi>Columbus</hi> his time,
+<note place="margin">
+                  <hi>Linscho.</hi> History, the East and West <hi>Indies.</hi>
+               </note> for <hi>Europe, Anno</hi> 1492. where as <hi>Linschotin</hi> does relate it, is called by the Tovoupinam Boultiers <hi>Piaus. Page</hi> 262.</p>
+            <p>Then that all may know this <hi>American</hi> Neapolitan, fascistious Monsieur, <hi>ab Origine,</hi> by its defi<g ref="char:EOLhyphen"/>nition, cause, and manner of in<g ref="char:EOLhyphen"/>fecting, whereby to avoid it, as others by its signs admonished to seek its present remedy.</p>
+            <p>
+               <hi>It is a venemous fermental infection of the whole Substance (alias formality) of the body, for the most part gotten by contagious</hi>
+               <note n="†" place="bottom">Vapours.</note>
+               <hi>Miasms, seizing and flowing through the Pores, into the liquid and solid parts of the Genitals, and thence dispersing into the se<g ref="char:EOLhyphen"/>veral parts of the whole Body.</hi>
+            </p>
+            <p>By most Authors,
+<note place="margin">Fernel parius.</note> conceived o<g ref="char:EOLhyphen"/>riginally to arise of occult causes, (none as yet declaring how) but by God's just Judgment punish<g ref="char:EOLhyphen"/>ing humane frailty; or rather, I
+<pb n="3" facs="tcp:204793:6"/>conceive permissive just Judgment punishing inhumane beastiality, or both.</p>
+            <p>But by some,
+<note place="margin">Fior avan<g ref="char:EOLhyphen"/>tus.</note> supposed from the putrefaction of Seed, or hu<g ref="char:EOLhyphen"/>mors in the Womb of an Anthro<g ref="char:EOLhyphen"/>pophagian Curtizan, generated from aliment of devoured mans flesh.</p>
+            <p>But if the nature thereof be truly considered, the formal facul<g ref="char:EOLhyphen"/>ty of parts, and the difference betwixt <hi>Firmentation,</hi> and <hi>Putre<g ref="char:EOLhyphen"/>faction, &amp;c.</hi> Then I cannot from thence conceive any rea<g ref="char:EOLhyphen"/>son for its production.</p>
+            <p>By others,
+<note place="margin">Wallaeus.</note> from the property of the Amboyne Water, and Aire.</p>
+            <p>But I rather conceive the in<g ref="char:EOLhyphen"/>fection was transported thither, as hither; the <hi>Spaniards</hi> making their Voyages from West-<hi>India</hi> thither.</p>
+            <p>By others, by Fascination,
+<note place="margin">Fernel.</note> as may be, possibly, by Diabolical
+<pb n="4" facs="tcp:204793:7"/>preternatural meanes.</p>
+            <p>By others,
+<note place="margin">
+                  <hi>Paul</hi> of <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>idleb. Paracel.</hi>
+               </note> by a siderial rape of <hi>Astral</hi> influences.</p>
+            <p>By others by a Lepers accom<g ref="char:EOLhyphen"/>panying with a Noble Curtezan in <hi>Spain,</hi>
+               <note place="margin">Foresius.</note> &amp;c.</p>
+            <p>But I rather, as most rational, and probably true,
+<note place="margin">Authors Opinion.</note> (though a paradox) conceive its original pro<g ref="char:EOLhyphen"/>duction, not from any of the above said or occult causes (considering the distinction betwixt life, which is light, and by the inherent po<g ref="char:EOLhyphen"/>wer of the spirit of God therein, the life of all things, (except Man, who lives by a Superior only, <hi>viz.</hi> his Soul) and Form, which is but a product thereof in every kind; otherwise how could it remain after death of the com<g ref="char:EOLhyphen"/>pound, which is a deprivation of life, the effects remaining until the resolution of the Body into mat<g ref="char:EOLhyphen"/>ter, to the production of new forms thereof. As also the formal fa<g ref="char:EOLhyphen"/>culties of parts; And the difference
+<pb n="5" facs="tcp:204793:7"/>betwixt <hi>Fermentation,</hi> in which is a promotion of Form; and <hi>Putrefaction,</hi> in which is a solu<g ref="char:EOLhyphen"/>tion of forms.)</p>
+            <p>But from a Ferment of Seed of a Creature wholly different in kind, and formally repugnant to humane formality, in the Womb of a most impious Diabolical <hi>A<g ref="char:EOLhyphen"/>merican,</hi> and thence communi<g ref="char:EOLhyphen"/>cated to posterity in <hi>Coition</hi> by contagious <hi>Miasms</hi> proceeding thereof,
+<note place="margin">Vapours.</note> insinuating through the Pores, into the liquid and solid parts of the Genitals, and com<g ref="char:EOLhyphen"/>mixing with their excrementitious humors, and thence through their formal activity, by access of na<g ref="char:EOLhyphen"/>tive heat and spirits, according to the malignity of the received Contagion, the Bodies infirmity or sanity, Cacochymie, or Eucras<g ref="char:EOLhyphen"/>sie, more or less infecting the whole Body, and in that state rendering such alike infectious to most persons, that in any kind
+<pb n="6" facs="tcp:204793:8"/>either lye with them, immediatly succeed them on a Close-stool, suck, or sucle, or any ways hap<g ref="char:EOLhyphen"/>pen to communicate of any con<g ref="char:EOLhyphen"/>tagious pollutions from them.</p>
+            <p>And is most truly cured by this its specifick Antidote (benevolent to nature) energically altering, resolving,
+<note place="margin">Vapours.</note> and insensibly evacua<g ref="char:EOLhyphen"/>ting all contagious <hi>Miasms,</hi> and matter infecting to a perfect re<g ref="char:EOLhyphen"/>covery of pristine health. As in the fourth Chapter following.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="7" facs="tcp:204793:8"/>
+            <head>CHAP. II. <hi>Signs Primarily in Men, Discovering the French Disease.</hi>
+            </head>
+            <p>THis Contagious Genital at<g ref="char:EOLhyphen"/>tendant of Venereal plea<g ref="char:EOLhyphen"/>sures is no sooner contracted, but these inevitable Symptomes or Signes, gradually informe the parties Diseased, of their misfor<g ref="char:EOLhyphen"/>tunate incounters, who are no sooner infected, but accosted with <hi>some, most,</hi> or <hi>all</hi> these morbi<g ref="char:EOLhyphen"/>sick arrests. First, a sloathfull lassitude, and soreness of all the Limbs; unusual aversion to Ve<g ref="char:EOLhyphen"/>nery; Nocturnal Disturbances; with a general indisposition of the whole Body and mind; pain,
+<pb n="8" facs="tcp:204793:9"/>hardness and swelling in the Groyns; a more than ordinary Feaverish heat and driness of the Palmes of the Hands; pain<g ref="char:EOLhyphen"/>full Pustles breaking out on the Temples, and Forehead: some<g ref="char:EOLhyphen"/>times upon a very impure co<g ref="char:EOLhyphen"/>pulation follows an inflamation, and swelling of the perpuse and glance.</p>
+            <p>And if it tend to a virulent <hi>Gonorrhea,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Run<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g of the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eins in Men.</note> as is most common, there insues a Venereal pria<g ref="char:EOLhyphen"/>pisme stimulating to Venery, a diasuria or stoppage, heat, pain, and sharpness of Urine, matter flowing by drops at the Yard, a cord or exstream pain upon erecti<g ref="char:EOLhyphen"/>on, as if a string were stretched a<g ref="char:EOLhyphen"/>longst the nether part thereof, through ulceration of the para<g ref="char:EOLhyphen"/>stata and uritary passage, caused by the malignity of the virulent flowing matter, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="9" facs="tcp:204793:9"/>
+            <head>CHAP. III. <hi>Signs Primarily in Wo<g ref="char:EOLhyphen"/>men, discovering the French Disease.</hi>
+            </head>
+            <p>THey are the same as in Men, except some peculiar to their Sex: as a sloathfull lassitude and soreness of all the Limbs; un<g ref="char:EOLhyphen"/>usual avertion to Venery; Noctur<g ref="char:EOLhyphen"/>nal disturbances, with a general indisposition of the whole Body and mind; discoulered Flowers; a more than ordinary Feverish heat, and driness of the Palmes of the Hands; painful Pustles breaking out on the Temples and Fore<g ref="char:EOLhyphen"/>head; pain, hardness, and swell<g ref="char:EOLhyphen"/>ings in the Groyn, <hi>&amp;c.</hi>
+            </p>
+            <pb n="10" facs="tcp:204793:10"/>
+            <p>And also,
+<note place="margin">The Run<g ref="char:EOLhyphen"/>ing of the Reins in Women.</note> if it tend to a virulent <hi>Gonorrhea,</hi> as is most common, there insues a Feminine priapism or hardness and stifness of the cly<g ref="char:EOLhyphen"/>toris, stimulating to Venery; a di<g ref="char:EOLhyphen"/>asuria, or heat, pain, and sharp<g ref="char:EOLhyphen"/>ness of Urine; matter flowing as in Men, exulterating the Neck of the Womb, which many suppose, or pretend, to be the Whites, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="11" facs="tcp:204793:10"/>
+            <head>CHAP. IV. <hi>Medicinal, Directions, shewing how to take the Pills for Cure of the French D sease.</hi>
+            </head>
+            <p>FIrst,
+<note place="margin">
+                  <hi>As in Chap.</hi> 2.</note> if there be the aforesaid (<hi>Cord</hi> in men) <hi>inflammation</hi> of the Genitals foreness, or ex<g ref="char:EOLhyphen"/>stream pains in either Sex, or that the parties be young and full of blood, it is necessary a day or two before the first taking of the Pills, to let blood, and then take them as followeth:</p>
+            <p>Every third or fourth Day, if a strong-bodied Man, or Woman, and that the infections &amp; pains be great, take three or four at a time,
+<pb n="12" facs="tcp:204793:11"/>if a weak-bodied Man or Wo<g ref="char:EOLhyphen"/>man, and that the infection and pains be slite, two or three in a little Syrup of Violets in the Mornings, about three or four of the Clock; and drink a draught of very warm Posset-drink made with White-wine after; and cover warm to a breathing sweat, until <hi>Eight</hi> or <hi>Nine</hi> of the Clock, or that you finde them begin to work, when, repeat your Posset-drink, after every Stool as they work, which exceeds not <hi>Four</hi> or <hi>Five</hi> times, if so oft, and keep warm all that Day follow<g ref="char:EOLhyphen"/>ing. A while after they have done working (after-noon) eat mode<g ref="char:EOLhyphen"/>rately some Panada,
+<note place="margin">Rice-meat.</note> water-gruell, <hi>Conjy,</hi> or such like.</p>
+            <p>And let your Drink be the smallest Ale, alwayes warmed with a Nutmeg Toast, very spa<g ref="char:EOLhyphen"/>ringly taken. At Nights when you are in Bed, drink half a pint of White-wine Posset-drink, as
+<pb n="13" facs="tcp:204793:11"/>warm as you can, and cover warm as before, all Night to a breath<g ref="char:EOLhyphen"/>ing sweat. The next, one or two Dayes intermitting: if the wea<g ref="char:EOLhyphen"/>ther be warm, you may follow occasions, until the third or fourth Day, you take them again until perfect recovery. Forbear all drinking, more than just satisfies nature; all salt, course, and high-seasoned Meates; Oysters, all Shel-fish, and Swines Flesh. And eat any other meats that are easie of digestion, and not excrimen<g ref="char:EOLhyphen"/>titious, as you please: as rosted Chickens, Necks of Mutton, Ra<g ref="char:EOLhyphen"/>bits, Fowles, Rice-meats, Pana<g ref="char:EOLhyphen"/>does, and such like. Take no <hi>Tobacco,</hi> and associate rather in a Coffee-House, then at Taverns or Ale-Houses; drink <hi>Tee, Aro<g ref="char:EOLhyphen"/>matick,</hi> or <hi>Coffee:</hi> which practice most punctually followed, will in a short time put a period to your Disease.</p>
+            <p>
+               <hi>Each Box of Pills are to be sold but at</hi> 5. <hi>shillings a Box.</hi>
+            </p>
+            <pb n="14" facs="tcp:204793:12"/>
+            <p>
+               <hi>The more curious may be di<g ref="char:EOLhyphen"/>rected to the Author, from any of the places where the Pills are Sold.</hi>
+            </p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>MAny approbations of the ex<g ref="char:EOLhyphen"/>cellent Cures done by these Pills; did not the indissolvable obligation of secresie deny, might be instanced: yet something there<g ref="char:EOLhyphen"/>of in <hi>India</hi> upon the Inhabitants, I may presume to declare, being my experience there.</p>
+            <p>Having the principallest Gran<g ref="char:EOLhyphen"/>dees of the Country, in the Isle of <hi>Celebes</hi> at <hi>Maccassar,</hi> my Pa<g ref="char:EOLhyphen"/>tients, I was sent for by <hi>Crayn</hi> Summanna, the King's Uncle, (whom before I had cured of a
+<pb n="15" facs="tcp:204793:12"/>Cancer) to a <hi>Buggise</hi> King,
+<note place="margin">High<g ref="char:EOLhyphen"/>land.</note> who had an Ulcer on the right Sca<g ref="char:EOLhyphen"/>pula, the which, with no great difficulty, I cured, and as I sup<g ref="char:EOLhyphen"/>posed, took my <hi>Ʋltimum Vale</hi> of him. But about seven Dayes after,
+<note place="margin">God save you.</note> I was saluted from him with a <hi>Tabya,</hi> and great com<g ref="char:EOLhyphen"/>plaint of an extraordinary itch<g ref="char:EOLhyphen"/>ing, at some distance round a<g ref="char:EOLhyphen"/>bout the siccatrize, with a pain and swelling in the Groyns, noctur<g ref="char:EOLhyphen"/>nal disturbances, frontall extube<g ref="char:EOLhyphen"/>rances tending to exulceration Feaverish heat, and driness of the palmes of the Hands, <hi>&amp;c.</hi>
+            </p>
+            <p>And the next Day importuned to give him a Visit; with whom, upon a strict inquiry in the <hi>Ma<g ref="char:EOLhyphen"/>layan</hi> Tongue, I perceived his Distemper to be the <hi>Sochynia Pokey,</hi>
+               <note place="margin">Disease <hi>Womans Puden<g ref="char:EOLhyphen"/>dale.</hi>
+               </note> which is the same as <hi>Pu<g ref="char:EOLhyphen"/>dendagria,</hi> or Genetal Disease, and thereupon proceeded in a rational Cure, by these <hi>Antipu<g ref="char:EOLhyphen"/>dendagrian</hi> Pills, who in <hi>Sixteen</hi>
+               <pb n="16" facs="tcp:204793:13"/>Dayes was perfectly recovered. Never-the-less, all the time he for<g ref="char:EOLhyphen"/>bore not Quotidian Bathing, though desired the contrary; yet by perswasion in tepid wa<g ref="char:EOLhyphen"/>ter, whereas at first he used cold, it being customary there, the Country lying under the Equi<g ref="char:EOLhyphen"/>nox.</p>
+            <closer>Laus Deo.</closer>
+            <pb facs="tcp:204793:13"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
